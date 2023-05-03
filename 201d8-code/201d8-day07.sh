@@ -16,6 +16,9 @@
 
 # Uses lshw to display system information to the screen about the following components:
 
+ # Name of the computer
+echo hostname
+
  # CPU
     # Product - Vendor - Physical ID - Bus info
     # Uses grep to remove irrelevant information from the lshw output (used to remove version)
