@@ -12,10 +12,13 @@
 #  * Introduction to some topics that will be learned in more detail later, such as networking and cybersecurity
 
 #Q. What was your favorite Ops Challenge assignment and why?
-#A. '; 
+#A. I liked using the whois commands to lookup information using OSINT techniques. As a trained investigator who has studied OSINT online investigations, that is my kind of technology. 
 
-#How can these examples of shell scripting be applied to the workplace?
+#Q. How can these examples of shell scripting be applied to the workplace?
+#A. Many processes can be automated to increase productivity, find data and information, and other useful tasks. Knowledge of how scripts work can assist in diagnosing problems caused by, and finding, bad or malicious scripts
 
-#What scripts would you continue to improve if you had the time?
+#Q. What scripts would you continue to improve if you had the time?
+#A. Whois and grep seemed useful for the kind of digging around and investigating work that I like to do. 
 
-#What aspect of your shell scripting skillset do you hope to improve next?
+#Q. What aspect of your shell scripting skillset do you hope to improve next?
+#A. My grasp of syntax is my weak spot, so far. I understand what different functions and command are supposed to do. I still struggle with correct placement and getting the correct symbols and operators in place to make the script work the way I want. 
